@@ -1,0 +1,454 @@
+{
+  "colleges": [
+    {
+      "category_ar": "علوم طبية",
+      "category_en": "Medical Sciences",
+      "created_at": "2026-09-11T20:21:24.092052+00:00",
+      "dean_ar": "أ.د. مروة فايد",
+      "dean_en": "Prof. Marwa Fayed",
+      "desc_ar": "تمنح درجة الصيدلة الإكلينيكية مع معامل متقدمة للتحليل الدوائي والتكنولوجيا الصيدلية.",
+      "desc_en": "Offers a clinical pharmacy degree with advanced labs for drug analysis and pharmaceutical technology.",
+      "id": "1ea5889e-f453-4199-a0d5-93e7abf4eaf2",
+      "image_key": "pharmacy",
+      "name_ar": "كلية الصيدلة",
+      "name_en": "Faculty of Pharmacy",
+      "programs": [
+        {
+          "ar": "الصيدلة الإكلينيكية",
+          "en": "Clinical Pharmacy"
+        },
+        {
+          "ar": "فارم دي",
+          "en": "Pharm.D"
+        }
+      ],
+      "slug": "pharmacy",
+      "sort_order": 0,
+      "students": 780,
+      "updated_at": "2026-10-12T22:46:40.516366+00:00",
+      "years": 5
+    },
+    {
+      "category_ar": "علوم طبية",
+      "category_en": "Medical Sciences",
+      "created_at": "2026-09-11T20:21:24.047577+00:00",
+      "dean_ar": "أ.د. شريف زيدان",
+      "dean_en": "Prof. Sherif Zeidan",
+      "desc_ar": "تُعنى الكلية بإعداد أطباء بيطريين مؤهلين للتعامل مع صحة الحيوان والأمن الغذائي، وتضم مستشفى بيطري تعليمي ومزارع تدريبية.",
+      "desc_en": "Prepares veterinarians for animal health and food security, with a teaching veterinary hospital and training farms.",
+      "id": "656f64d5-2cdc-48aa-b282-55a37208638c",
+      "image_key": "veterinary-medicine",
+      "name_ar": "كلية الطب البيطري",
+      "name_en": "Faculty of Veterinary Medicine",
+      "programs": [
+        {
+          "ar": "الطب البيطري",
+          "en": "Veterinary Medicine"
+        },
+        {
+          "ar": "صحة وسلامة الغذاء",
+          "en": "Food Safety & Hygiene"
+        }
+      ],
+      "slug": "veterinary-medicine",
+      "sort_order": 1,
+      "students": 760,
+      "updated_at": "2026-10-12T22:46:40.516366+00:00",
+      "years": 5
+    },
+    {
+      "category_ar": "علوم وهندسة",
+      "category_en": "Science & Engineering",
+      "created_at": "2026-09-11T20:21:24.279584+00:00",
+      "dean_ar": "أ.د. أحمد سالم",
+      "dean_en": "Prof. Ahmed Salem",
+      "desc_ar": "برامج في الشبكات والحوسبة السحابية والذكاء الاصطناعي والبيانات الضخمة مع معامل حوسبة عالية الأداء.",
+      "desc_en": "Programs in networks and cloud computing, AI and big data, with high-performance computing labs.",
+      "id": "3b0d9229-d49b-42cb-9aed-4efab77119ae",
+      "image_key": "computers-ai",
+      "name_ar": "كلية الحاسبات والمعلومات والذكاء الاصطناعي",
+      "name_en": "Faculty of Computers, Information & Artificial Intelligence",
+      "programs": [
+        {
+          "ar": "الشبكات والحوسبة السحابية",
+          "en": "Networks & Cloud Computing"
+        },
+        {
+          "ar": "الذكاء الاصطناعي والبيانات الضخمة",
+          "en": "AI & Big Data"
+        }
+      ],
+      "slug": "computers-ai",
+      "sort_order": 2,
+      "students": 790,
+      "updated_at": "2026-10-12T22:46:40.516366+00:00",
+      "years": 4
+    },
+    {
+      "category_ar": "العلوم والحوسبة",
+      "category_en": "Science & Computing",
+      "created_at": "2026-10-12T19:20:42.052761+00:00",
+      "dean_ar": "أ.د. خالد الكيلاني",
+      "dean_en": "Prof. Khaled El-Keylany",
+      "desc_ar": "دراسة العلوم الأساسية والتطبيقية وتنمية مهارات البحث العلمي والتحليل والتجريب.",
+      "desc_en": "Basic and applied sciences with a focus on scientific research, analysis and experimentation.",
+      "id": "d20b03ff-f787-4359-8db1-99b1faa3d68d",
+      "image_key": "science",
+      "name_ar": "كلية العلوم",
+      "name_en": "Faculty of Science",
+      "programs": [
+        {
+          "ar": "الكيمياء الصناعية التطبيقية",
+          "en": "Applied Industrial Chemistry"
+        },
+        {
+          "ar": "علوم البيانات وتطبيقات الذكاء الاصطناعي",
+          "en": "Data Science & AI Applications"
+        }
+      ],
+      "slug": "science",
+      "sort_order": 3,
+      "students": 735,
+      "updated_at": "2026-10-12T22:46:40.516366+00:00",
+      "years": 4
+    },
+    {
+      "category_ar": "علوم إنسانية",
+      "category_en": "Humanities",
+      "created_at": "2026-09-11T20:21:24.154484+00:00",
+      "dean_ar": "أ.د. مروة",
+      "dean_en": "Prof. Marwa",
+      "desc_ar": "برامج في نظم معلومات الأعمال والمحاسبة المهنية والتسويق الرقمي مع تدريس باللغة الإنجليزية.",
+      "desc_en": "Programs in business information systems, professional accounting and digital marketing, taught in English.",
+      "id": "e7d059f9-ca08-418d-9638-18beee3bcf43",
+      "image_key": "business",
+      "name_ar": "كلية الأعمال",
+      "name_en": "Faculty of Business",
+      "programs": [
+        {
+          "ar": "نظم معلومات الأعمال (BIS)",
+          "en": "Business Information Systems (BIS)"
+        },
+        {
+          "ar": "المحاسبة المهنية",
+          "en": "Professional Accounting"
+        },
+        {
+          "ar": "التسويق الرقمي",
+          "en": "Digital Marketing"
+        }
+      ],
+      "slug": "business",
+      "sort_order": 4,
+      "students": 750,
+      "updated_at": "2026-10-12T22:46:40.516366+00:00",
+      "years": 4
+    },
+    {
+      "category_ar": "علوم إنسانية",
+      "category_en": "Humanities",
+      "created_at": "2026-09-11T20:21:24.195902+00:00",
+      "dean_ar": "أ.د. أحمد ربيع",
+      "dean_en": "Prof. Ahmed Rabie",
+      "desc_ar": "برامج في تخطيط الأحمال التدريبية والاستشفاء والتأهيل وإدارة الأعمال الرياضية وتحليل البيانات والترويح، مع ملاعب وصالات مجهزة ومعامل فسيولوجيا رياضية.",
+      "desc_en": "Programs in training load planning, recovery and rehabilitation, sports business, data analytics and recreation, with equipped fields, halls and physiology labs.",
+      "id": "9782f77d-9580-4de8-bb5e-78a70e3243d1",
+      "image_key": "sports-science",
+      "name_ar": "كلية علوم الرياضة",
+      "name_en": "Faculty of Sports Science",
+      "programs": [
+        {
+          "ar": "تخطيط الأحمال التدريبية",
+          "en": "Training Load Planning"
+        },
+        {
+          "ar": "الاستشفاء والتأهيل البدني والحركي",
+          "en": "Recovery & Physical Rehabilitation"
+        },
+        {
+          "ar": "إدارة الأعمال الرياضية",
+          "en": "Sports Business Management"
+        },
+        {
+          "ar": "تحليل البيانات الرياضية",
+          "en": "Sports Data Analytics"
+        },
+        {
+          "ar": "الترويح وأنشطة جودة الحياة",
+          "en": "Recreation & Quality-of-Life Activities"
+        }
+      ],
+      "slug": "sports-science",
+      "sort_order": 5,
+      "students": 715,
+      "updated_at": "2026-10-12T22:46:40.516366+00:00",
+      "years": 4
+    },
+    {
+      "category_ar": "علوم إنسانية",
+      "category_en": "Humanities",
+      "created_at": "2026-09-11T20:21:24.216763+00:00",
+      "dean_ar": "أ.د. محمود رمضان",
+      "dean_en": "Prof. Mahmoud Ramadan",
+      "desc_ar": "برامج في إدارة الطيران والإدارة الدولية لعمليات الفنادق والمطاعم مع تدريب صيفي بالمنشآت السياحية والفندقية.",
+      "desc_en": "Programs in aviation management and international hotel and restaurant operations, with summer training at tourism and hospitality venues.",
+      "id": "03ece40d-6c3f-42a2-80d4-6c14f40a30fe",
+      "image_key": "tourism",
+      "name_ar": "كلية السياحة والفنادق",
+      "name_en": "Faculty of Tourism & Hotels",
+      "programs": [
+        {
+          "ar": "إدارة الطيران",
+          "en": "Aviation Management"
+        },
+        {
+          "ar": "الإدارة الدولية لعمليات الفنادق والمطاعم",
+          "en": "International Hotel & Restaurant Operations Management"
+        }
+      ],
+      "slug": "tourism",
+      "sort_order": 6,
+      "students": 705,
+      "updated_at": "2026-10-12T22:46:40.516366+00:00",
+      "years": 4
+    }
+  ],
+  "departments": [
+    {
+      "college_id": "3b0d9229-d49b-42cb-9aed-4efab77119ae",
+      "created_at": "2026-09-12T04:38:49.837159+00:00",
+      "description_ar": "الخوارزميات وهندسة البرمجيات والحوسبة السحابية.",
+      "description_en": "Algorithms, software engineering and cloud computing.",
+      "id": "227c74e5-7c50-4c75-b111-10a113ddeaa6",
+      "name_ar": "قسم علوم الحاسب",
+      "name_en": "Computer Science",
+      "published": false,
+      "sort_order": 1,
+      "source_url": "",
+      "updated_at": "2026-09-12T04:38:49.837159+00:00",
+      "verified_at": null
+    },
+    {
+      "college_id": "e7d059f9-ca08-418d-9638-18beee3bcf43",
+      "created_at": "2026-09-12T04:38:49.837159+00:00",
+      "description_ar": "المحاسبة المالية والمراجعة ونظم التكاليف.",
+      "description_en": "Financial accounting, auditing and costing systems.",
+      "id": "849653f1-302b-4942-bbdf-78eb039f8c67",
+      "name_ar": "قسم المحاسبة",
+      "name_en": "Accounting",
+      "published": false,
+      "sort_order": 1,
+      "source_url": "",
+      "updated_at": "2026-09-12T04:38:49.837159+00:00",
+      "verified_at": null
+    },
+    {
+      "college_id": "1ea5889e-f453-4199-a0d5-93e7abf4eaf2",
+      "created_at": "2026-09-12T04:38:49.837159+00:00",
+      "description_ar": "تصميم وتطوير نظم توصيل الدواء.",
+      "description_en": "Design and development of drug-delivery systems.",
+      "id": "5b79cda3-c8d1-4b1f-a512-f773116dd0cb",
+      "name_ar": "قسم الصيدلانيات",
+      "name_en": "Pharmaceutics",
+      "published": false,
+      "sort_order": 1,
+      "source_url": "",
+      "updated_at": "2026-09-12T04:38:49.837159+00:00",
+      "verified_at": null
+    },
+    {
+      "college_id": "656f64d5-2cdc-48aa-b282-55a37208638c",
+      "created_at": "2026-09-12T04:38:49.837159+00:00",
+      "description_ar": "التشخيص والعلاج والجراحة للحيوانات.",
+      "description_en": "Animal diagnosis, treatment and surgery.",
+      "id": "4bc1d9e1-5744-4317-b221-2c621247b02c",
+      "name_ar": "قسم الطب البيطري الإكلينيكي",
+      "name_en": "Clinical Veterinary Medicine",
+      "published": false,
+      "sort_order": 1,
+      "source_url": "",
+      "updated_at": "2026-09-12T04:38:49.837159+00:00",
+      "verified_at": null
+    },
+    {
+      "college_id": "3b0d9229-d49b-42cb-9aed-4efab77119ae",
+      "created_at": "2026-09-12T04:38:49.837159+00:00",
+      "description_ar": "تعلم الآلة ومعالجة اللغة والرؤية الحاسوبية.",
+      "description_en": "Machine learning, language processing and computer vision.",
+      "id": "ec0124ed-9368-4c62-a339-c0e02716d1ec",
+      "name_ar": "قسم الذكاء الاصطناعي",
+      "name_en": "Artificial Intelligence",
+      "published": false,
+      "sort_order": 2,
+      "source_url": "",
+      "updated_at": "2026-09-12T04:38:49.837159+00:00",
+      "verified_at": null
+    }
+  ],
+  "faculty": [
+    {
+      "bio_ar": "متخصص في تعلم الآلة ومعالجة اللغة العربية.",
+      "bio_en": "Specialises in machine learning and Arabic language processing.",
+      "college_id": "3b0d9229-d49b-42cb-9aed-4efab77119ae",
+      "created_at": "2026-09-12T04:38:49.837159+00:00",
+      "email": "k.adel@usc.edu.eg",
+      "id": "ff176566-b741-466c-bb29-379539405bb4",
+      "name_ar": "د. كريم عادل",
+      "name_en": "Dr Karim Adel",
+      "photo_key": "col-computers-ai",
+      "published": true,
+      "sort_order": 1,
+      "source_url": "",
+      "title_ar": "أستاذ مساعد الذكاء الاصطناعي",
+      "title_en": "Associate Professor of AI",
+      "updated_at": "2026-09-12T04:38:49.837159+00:00",
+      "verified_at": null
+    },
+    {
+      "bio_ar": "تهتم بتطوير نظم دوائية ذكية وتحسين الإتاحة الحيوية.",
+      "bio_en": "Develops smart dosage forms and improves bioavailability.",
+      "college_id": "1ea5889e-f453-4199-a0d5-93e7abf4eaf2",
+      "created_at": "2026-09-12T04:38:49.837159+00:00",
+      "email": "h.ismail@usc.edu.eg",
+      "id": "2afe9a49-67d7-408c-995f-e6d37cf650ed",
+      "name_ar": "د. هبة إسماعيل",
+      "name_en": "Dr Heba Ismail",
+      "photo_key": "col-pharmacy",
+      "published": true,
+      "sort_order": 1,
+      "source_url": "",
+      "title_ar": "أستاذ مساعد الصيدلانيات",
+      "title_en": "Associate Professor of Pharmaceutics",
+      "updated_at": "2026-09-12T04:38:49.837159+00:00",
+      "verified_at": null
+    }
+  ],
+  "faqs": [
+    {
+      "answer_ar": "شهادة الثانوية العامة الأصلية، صورة بطاقة الرقم القومي أو شهادة الميلاد، 6 صور شخصية، ونموذج 2 جند لمن يلزم.",
+      "answer_en": "Original secondary certificate, national ID or birth certificate copy, 6 photos, and military form when applicable.",
+      "created_at": "2026-09-11T20:21:24.426624+00:00",
+      "id": "17e14ff1-6670-462c-9232-64d7d9a68bc3",
+      "published": true,
+      "question_ar": "ما الأوراق المطلوبة للالتحاق؟",
+      "question_en": "Which documents are required?",
+      "sort_order": 2,
+      "updated_at": "2026-09-11T20:21:24.426624+00:00"
+    },
+    {
+      "answer_ar": "يفتح باب التقديم عادةً في أغسطس من كل عام ويستمر حتى منتصف سبتمبر عبر بوابة القبول الإلكترونية.",
+      "answer_en": "Applications usually open in August and run until mid-September through the online admissions portal.",
+      "created_at": "2026-09-11T20:21:24.426624+00:00",
+      "id": "cd3913bb-2e88-4b6e-9222-1abdcc9e1252",
+      "published": true,
+      "question_ar": "ما هي مواعيد التقديم للعام الجامعي؟",
+      "question_en": "When does admission open?",
+      "sort_order": 3,
+      "updated_at": "2026-09-12T16:55:05.394915+00:00"
+    },
+    {
+      "answer_ar": "تتوفر المدينة الجامعية للطلاب من خارج المحافظة وللطلاب الوافدين وفق الأماكن المتاحة سنويًا.",
+      "answer_en": "Campus housing is available for out-of-governorate and international students subject to yearly capacity.",
+      "created_at": "2026-09-11T20:21:24.426624+00:00",
+      "id": "943fa266-7376-48b3-b8d7-8f6c67e03f5e",
+      "published": true,
+      "question_ar": "هل يوجد سكن جامعي للطلاب الوافدين؟",
+      "question_en": "Is student housing available?",
+      "sort_order": 4,
+      "updated_at": "2026-09-11T20:21:24.426624+00:00"
+    },
+    {
+      "answer_ar": "بعد الإرسال يظهر رقم مرجعي للطلب، ويتم التواصل معك عبر البريد الإلكتروني أو الهاتف المسجل.",
+      "answer_en": "After submission you receive a reference number, and the admissions office contacts you by email or phone.",
+      "created_at": "2026-09-11T20:21:24.426624+00:00",
+      "id": "025d61b4-3cd3-4165-a2b5-d8bca28c86bd",
+      "published": true,
+      "question_ar": "كيف أتابع حالة طلب الالتحاق؟",
+      "question_en": "How do I track my application?",
+      "sort_order": 5,
+      "updated_at": "2026-09-11T20:21:24.426624+00:00"
+    },
+    {
+      "answer_ar": "يتم التحويل وفق قواعد المجلس الأعلى للجامعات وتوافر الأماكن وتقارب المجموع الاعتباري.",
+      "answer_en": "Transfers follow Supreme Council of Universities rules, available seats and comparable scores.",
+      "created_at": "2026-09-11T20:21:24.426624+00:00",
+      "id": "4eae2d5a-ebd8-4e88-9c32-0045cabf2d70",
+      "published": true,
+      "question_ar": "ما هي شروط التحويل بين الكليات؟",
+      "question_en": "What are the transfer conditions?",
+      "sort_order": 6,
+      "updated_at": "2026-09-11T20:21:24.426624+00:00"
+    }
+  ],
+  "news": [
+    {
+      "body_ar": "",
+      "body_en": "",
+      "category_ar": "فعاليات",
+      "category_en": "",
+      "created_at": "2026-10-12T22:01:08.256514+00:00",
+      "event_date": "2026-10-12",
+      "excerpt_ar": "",
+      "excerpt_en": "",
+      "id": "ecffa0e7-0ddd-4344-88fc-2bb18b512463",
+      "image_key": "life-festival",
+      "kind": "event",
+      "published": true,
+      "title_ar": "استقبال الطلاب الجدد للعام الجامعي 2026",
+      "title_en": "",
+      "updated_at": "2026-10-12T22:53:20.525295+00:00"
+    },
+    {
+      "body_ar": "المركب مستخلص من نباتات محلية وأظهر فاعلية ضد سلالات مقاومة للمضادات الحيوية.",
+      "body_en": "Derived from local plants, the compound showed efficacy against antibiotic-resistant strains.",
+      "category_ar": "بحث علمي",
+      "category_en": "Research",
+      "created_at": "2026-09-11T20:21:24.343311+00:00",
+      "event_date": "2026-08-21",
+      "excerpt_ar": "المركب مستخلص من نباتات محلية وأظهر فاعلية ضد سلالات مقاومة للمضادات الحيوية.",
+      "excerpt_en": "Derived from local plants, the compound showed efficacy against antibiotic-resistant strains.",
+      "id": "e9ff04aa-24f2-4f93-8447-b1879533b0d1",
+      "image_key": "science",
+      "kind": "news",
+      "published": true,
+      "title_ar": "فريق بحثي بالجامعة يسجل براءة اختراع لمركب مضاد للبكتيريا",
+      "title_en": "University team files a patent for a new antibacterial compound",
+      "updated_at": "2026-10-12T22:01:50.226903+00:00"
+    },
+    {
+      "body_ar": "يتيح البروتوكول تدريبًا صيفيًا لـ 900 طالب سنويًا ومشروعات بحثية مشتركة.",
+      "body_en": "The protocol provides summer training for 900 students yearly and joint research projects.",
+      "category_ar": "شراكات",
+      "category_en": "Partnerships",
+      "created_at": "2026-09-11T20:21:24.384922+00:00",
+      "event_date": "2026-07-30",
+      "excerpt_ar": "يتيح البروتوكول تدريبًا صيفيًا لـ 900 طالب سنويًا ومشروعات بحثية مشتركة.",
+      "excerpt_en": "The protocol provides summer training for 900 students yearly and joint research projects.",
+      "id": "9dfdc78f-93ef-4f9f-ba75-6a2b59e8c377",
+      "image_key": "engineering",
+      "kind": "news",
+      "published": true,
+      "title_ar": "بروتوكول تعاون مع المنطقة الصناعية بمدينة السادات",
+      "title_en": "Cooperation protocol with the Sadat City industrial zone",
+      "updated_at": "2026-09-11T20:21:24.384922+00:00"
+    }
+  ],
+  "testimonials": [
+    {
+      "college_id": "656f64d5-2cdc-48aa-b282-55a37208638c",
+      "content_ar": "المستشفى التعليمي أتاح لي التعامل مع حالات حقيقية بإشراف أكاديمي متخصص.",
+      "content_en": "The teaching hospital let me handle real cases under specialist academic supervision.",
+      "created_at": "2026-09-12T04:38:49.837159+00:00",
+      "id": "8f8bbfd7-6af3-4526-ba64-61d728f1f4c9",
+      "is_approved": true,
+      "photo_key": "physical-education",
+      "rating": 5,
+      "role_ar": "طالب بكلية الطب البيطري",
+      "role_en": "Veterinary Medicine student",
+      "sort_order": 3,
+      "student_name_ar": "محمود سيد",
+      "student_name_en": "Mahmoud Sayed",
+      "updated_at": "2026-10-13T07:00:27.185276+00:00"
+    }
+  ]
+}
