@@ -167,20 +167,20 @@ export function Navbar() {
           scrolled ? "bg-background/96 shadow-card" : "bg-background/92",
         )}
       >
-        <div className="shell grid h-16 grid-cols-[minmax(0,1fr)_auto] items-center gap-3 sm:h-20 lg:gap-6">
-          <Link to="/" className="flex min-w-0 items-center">
+        <div className="shell grid h-16 grid-cols-[minmax(0,1fr)_auto] items-center gap-5 sm:h-20 lg:gap-6">
+          <Link to="/" className="flex min-w-0 items-center ">
           
 
-<img
-  src={theme === "dark" ? "/logo.png" : "/nusc-logo-trimmed.png"}
-  alt={t(university.name)}
-  width={106}
-  height={104}
-  className={cn(
-    "shrink-0 object-contain transition-all duration-300",
-    scrolled ? "size-23" : "size-23",
-  )}
-/>
+<div className="flex h-14 w-14 shrink-0 items-center justify-center sm:h-16 sm:w-16 md:h-20 md:w-20 lg:h-[104px] lg:w-[106px]">
+  <img
+    src={theme === "dark" ? "/logo.png" : "/nusc-logo-trimmed.png"}
+    alt={t(university.name)}
+    className={cn(
+      "h-full w-full object-contain",
+      theme === "dark" && "scale-[0.85]"
+    )}
+  />
+</div>
 
 
             <span className="hidden min-w-0 sm:block">
@@ -300,7 +300,7 @@ export function Navbar() {
                     ? openMenu("about")
                     : setMega(null)
               }
-              className="nav-link px-3 py-2 text-sm font-semibold text-foreground/80 transition hover:text-primary"
+              className="nav-link px-3 pb-2 pt-1 text-sm font-semibold text-foreground/80 transition hover:text-primary"
             >
               <span className="inline-flex items-center gap-1">
                 {t(item.label)}
