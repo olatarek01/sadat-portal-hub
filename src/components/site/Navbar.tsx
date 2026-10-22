@@ -171,7 +171,7 @@ export function Navbar() {
           <Link to="/" className="flex min-w-0 items-center ">
           
 
-<div className="flex h-14 w-14 shrink-0 items-center justify-center sm:h-16 sm:w-16 md:h-20 md:w-20 lg:h-[104px] lg:w-[106px]">
+<div className="flex h-20 w-20 shrink-0 items-center justify-center sm:h-16 sm:w-16 md:h-20 md:w-20 lg:h-[104px] lg:w-[106px]">
   <img
     src={theme === "dark" ? "/logo.png" : "/nusc-logo-trimmed.png"}
     alt={t(university.name)}
